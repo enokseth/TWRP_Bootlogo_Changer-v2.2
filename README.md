@@ -1,4 +1,4 @@
-# Bootlogo Warnings Patcher
+# Samsung Boot-Logo Changer
 ### A simple tool to get rid of [changing boot warnings and modifie boot logo](https://imgur.com/a/FFeOHkC) - exynos only
 ```
 Copyright 2023-2025 © enok._.seth et © corsicanu
