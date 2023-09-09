@@ -1,7 +1,7 @@
 # Simple Samsung Twrp Bootlogo Changer
-### A simple tool to get rid of [changing boot warnings and modifie boot logo](https://imgur.com/a/FFeOHkC) - exynos only
+### A simple tool to get rid of [changing boot warnings or modifie boot logo by replacing with your own] - exynos only
 ```
-Copyright 2023-2025 © enok._.seth et © corsicanu
+Copyright 2023-2025 © enok._.seth
 Licensed under CC BY-NC-SA 4.0
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 ```
