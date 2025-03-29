@@ -44,13 +44,13 @@ involved in this for your failures, you are the only one choosing to mess up wit
        - if booting_warning.jpg exists and its size is different than logo1.jpg and letter1.jpg then it means it's not patched
        - backup up_param to internal storage
        - copy normal splash logo over [svb_orange.jpg](https://i.imgur.com/bQ9wTeW.jpeg)
-       - copy logo1.jpg and letter1.jpg over booting_warning.jpg, svb_orange.jpg, letter.jpg (which makes the size of the file strict bytes)
+       - copy logo1.jpg and  over booting_warning.jpg, svb_orange.jpg,  (which makes the size of the file strict bytes)
        - repack up_param and flash back
    - check param for [booting_warning.jpg](https://i.imgur.com/PMDv38E.jpeg)
        - if booting_warning.jpg exists and its size is different than logo1.jpg and letter1.jpg then it means it's not patched
        - backup param to internal storage
        - copy normal splash logo over [svb_orange.jpg](https://i.imgur.com/bQ9wTeW.jpeg)
-       - copy logo1.jpg and letter1.jpg over booting_warning.jpg, svb_orange.jpg, letter.jpg (which makes the size of the file strict bytes)
+       - copy logo1.jpg and  over booting_warning.jpg, svb_orange.jpg, letter.jpg (which makes the size of the file strict bytes)
        - repack param and flash back
 	
 
