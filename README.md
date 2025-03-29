@@ -25,7 +25,7 @@ involved in this for your failures, you are the only one choosing to mess up wit
 ### Instructions:
    - Download TWRP_Bootlogo_patcher-*.zip from [releases](https://github.com/enokseth/TWRP_Bootlogo_Changer-v2.2/releases)
    - unzip the file and replace : 
-   - letter1.jpg and logo1.jpg by your desired custom logo
+   - logo1.jpg by your desired custom logo with same name
    - Boot phone in TWRP
    - Flash the downloaded zip as any other
    - Reboot and enjoy
